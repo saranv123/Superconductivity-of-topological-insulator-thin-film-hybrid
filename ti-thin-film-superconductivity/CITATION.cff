@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository's scientific model, please cite the associated publication."
+authors:
+  - family-names: Vijayan
+    given-names: Saran
+  - family-names: Zhou
+    given-names: Fei
+title: "Realizing attractive interacting topological surface fermions: A resonating topological-insulator–thin-film hybrid platform"
+type: article
+journal: Physical Review B
+volume: 109
+issue: 14
+year: 2024
+article-number: "144508"
+doi: 10.1103/PhysRevB.109.144508
